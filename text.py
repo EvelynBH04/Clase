@@ -1,2 +1,14 @@
-def concat(tex1,tex2):
-    return tex1+tex2
+texto = 'Hola mundo'
+print (texto)
+
+linea = '  paciente,nombre,apellido   \n'
+linea.strip()
+'paciente,nombre,apellido'
+
+adn.lower().replace(' ', '')
+acttgacta
+
+
+
+
+#modificado
