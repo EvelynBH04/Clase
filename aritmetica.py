@@ -24,3 +24,6 @@ def Sin(N):
     return math.sin(N)
 def Cos(N):
     return math.cos(N)
+def Log(N):
+    return math.log(N)
+
